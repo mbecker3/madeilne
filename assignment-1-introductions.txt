@@ -1,0 +1,21 @@
+Assignment 1: Introductions
+Link: https://classroom.github.com/a/noUPBTFA
+Due: Tuesday, January 23, 2018 @ 8:00am
+
+Fill in the following three blanks.
+
+Name: Madeline Becker
+Major: Statistics
+Expected graduation date: May 2021
+
+
+Answer the following four questions.
+
+Why are you taking this class?
+I am taking this class to get better at programming and to further understand statistics.
+What is your previous programming experience?
+I took Intro to Computational Thinking last semester.
+What do you want to take away from this class?
+I want to have a good understanding with little to no confusion of programming.
+Do you have any apprehensions about this class? If so, describe.
+I’m worried the programming will get harder and I won’t know how to do it.
